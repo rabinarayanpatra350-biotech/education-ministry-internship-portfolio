@@ -1,0 +1,7 @@
+# Week 6 — Capstone Project & Assessment
+
+**Report:** `Capstone_Project_Report.docx` — 2,133 words, 8 pages, 5 tables | **Figures:** twelve-month phased timeline; competency self-assessment radar | **Canonical repo:** [education-ministry-week6](https://github.com/rabinarayanpatra350-biotech/education-ministry-week6)
+
+## What it covers
+
+The capstone assembles all six weeks into one comprehensive project: **Coimbatore FLN 2027**, a district-level foundational learning acceleration project for the 729 elementary government schools of Coimbatore. The need is established from verified ground — PGI 2.0 learning outcomes 41.2/100; NAS 2021 Class 3 language 62 / mathematics 57; ASER 2024 Class 3 government arithmetic 9.3%→27.6% (2022-24); the district's own scale (2,047 schools, 1,210 government, 729 elementary; ~2.57 lakh government-sector students). The plan runs twelve months across five phases with four milestone reviews, SMART objectives tied to baselines (Class 3 arithmetic ≥50%, reading ≥45% by 2027-28), unit costs from the department's own verified figures (₹1,800-2,500 per school via SMCs), and a three-risk register. Execution is documented at pilot scale under mentor guidance (CEO office, DIET, Block Resource Centres) — including what was deliberately not done. The presentation to district officials is designed as a ten-slide deck with anticipated questions answered inside it. The assessment closes with a competency self-assessment radar (Week 1 vs Week 6, six dimensions) and career recommendations.
